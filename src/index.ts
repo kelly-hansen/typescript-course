@@ -1,2 +1,4 @@
-let sales: number = 123456789;
-let course: string = 'TypeScript';
+let sales = 123_456_789;
+let course = 'TypeScript';
+let is_published = true;
+let level;
