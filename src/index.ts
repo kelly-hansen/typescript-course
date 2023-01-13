@@ -1,2 +1,1 @@
-let numbers: number[] = [];
-numbers.forEach(n => n.toFixed())
+let user: [number, string] = [1, 'Kelly']
