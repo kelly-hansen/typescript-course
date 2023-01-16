@@ -1,6 +1,8 @@
-function render(document: unknown) {
-  // Narrowing
-  if (typeof document === 'string') {
-    document.toUpperCase();
+function processEvents(): never {
+  while (true) {
+
   }
 }
+
+processEvents();
+console.log('Hello World')
